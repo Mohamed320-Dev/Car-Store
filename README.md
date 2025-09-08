@@ -3,8 +3,6 @@
   A modern and responsive <b>e-commerce template</b> designed for car accessories & parts 🚘  
 </p>
 
-<a href="https://mohamed320-dev.github.io/Car-Store/"><strong>➥ Live Demo</strong></a>
-
 <p align="center">
   <a href="https://github.com/Mohamed320-Dev/Car-Store/stargazers">
     <img src="https://img.shields.io/github/stars/Mohamed320-Dev/Car-Store?style=social" alt="Stars">
@@ -19,6 +17,8 @@
     <img src="https://img.shields.io/github/license/Mohamed320-Dev/Car-Store" alt="License">
   </a>
 </p>
+
+<a href="https://mohamed320-dev.github.io/Car-Store/"><strong>➥ Live Demo</strong></a>
 
 ---
 
