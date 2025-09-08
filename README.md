@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<a href="https://mohamed320-dev.github.io/Car-Store/"><strong>➥ Live Demo</strong></a>
+<a href="https://mohamed320-dev.github.io/Car-Store/" style={align-items: 'center'}><strong>➥ Live Demo</strong></a>
 
 ---
 
